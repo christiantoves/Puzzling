@@ -5,5 +5,6 @@ public class PuzzleJavaTest {
         test.getNewPasswordSet(10);
         int[] testNums = {1,7,3,8,9};
         test.arrayShuffle(testNums);
+        
     }
 }
